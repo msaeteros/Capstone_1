@@ -7,6 +7,8 @@ This mini-capstone project focuses on analyzing a sales dataset for ME in order 
 - Analyze revenue trends by year and month
 - 
 
-
  # Tools/ Technique 
+ - SQL: Querying and analyzing the sales database.
+- Excel:Creating Pivot Tables and Pivot Charts.
+- GitHub: Storing project files, tracking changes, and collaborating with team members
  
